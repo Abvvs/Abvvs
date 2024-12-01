@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-abvvs.png" width="50%"/>
+  <img src="banner-abvvs.png" width="100%"/>
 </div>
 
 ## Welcome to my profile! 
